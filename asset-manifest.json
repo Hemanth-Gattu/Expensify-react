@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Expensify-react/static/css/main.3b720b02.chunk.css",
+    "main.js": "/Expensify-react/static/js/main.a676a857.chunk.js",
+    "main.js.map": "/Expensify-react/static/js/main.a676a857.chunk.js.map",
+    "runtime-main.js": "/Expensify-react/static/js/runtime-main.a5bfc7eb.js",
+    "runtime-main.js.map": "/Expensify-react/static/js/runtime-main.a5bfc7eb.js.map",
+    "static/js/2.1cf3f921.chunk.js": "/Expensify-react/static/js/2.1cf3f921.chunk.js",
+    "static/js/2.1cf3f921.chunk.js.map": "/Expensify-react/static/js/2.1cf3f921.chunk.js.map",
+    "index.html": "/Expensify-react/index.html",
+    "static/css/main.3b720b02.chunk.css.map": "/Expensify-react/static/css/main.3b720b02.chunk.css.map",
+    "static/js/2.1cf3f921.chunk.js.LICENSE.txt": "/Expensify-react/static/js/2.1cf3f921.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5bfc7eb.js",
+    "static/js/2.1cf3f921.chunk.js",
+    "static/css/main.3b720b02.chunk.css",
+    "static/js/main.a676a857.chunk.js"
+  ]
+}
